@@ -64,7 +64,7 @@ What to expect from previous version:
 * Command line is more homogeneous/has better UX. All tunnel can be specified multiple times
 * Tunnel protocol tries to look like normal traffic, to avoid being flagged
 * Support of reverse tunneling
-* New bug, it is a rewrite (╯'□')╯︵ ┻━┻ ¯\\_(ツ)_/¯
+* New bug, it is a rewrite (╯'□')╯︵ ┻━┻ ¯\\\_(ツ)\_/¯
 * Mainly for me to ease the maintenance of the project. I don't do a lot of haskell nowadays and it was harder for me to
   keep maintening the project over time, as I get lost in touch of the Haskell ecosystem and new release.
 * Armv7 build (aka raspberry pi), as new version of GHC (Haskell compiler) dropped its support
